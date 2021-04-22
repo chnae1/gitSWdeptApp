@@ -1,8 +1,8 @@
-# gitARinterior
+# gitSWdeptWebpage
 
 2021 1학기 오픈소스 전문프로젝트
 
-AR 인테리어 어플
+충북대학교 소프트웨어학과 홈페이지 어플
 
 팀명: Square(스퀘어)
 
